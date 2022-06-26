@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="400" maximum="700" default="400"/>
+  </axes>
+  <sources>
+    <source filename="NotoSerifMakasar-Regular.ufo" name="Noto Serif Makasar Regular" familyname="Noto Serif Makasar" stylename="Regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Noto Serif Makasar Regular" familyname="Noto Serif Makasar" stylename="Regular" filename="instance_ufo/NotoSerifMakasar-Regular.ufo" stylemapfamilyname="Noto Serif Makasar" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+      </location>
+    </instance>
+  </instances>
+</designspace>

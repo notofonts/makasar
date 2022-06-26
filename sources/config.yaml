@@ -1,10 +1,10 @@
 buildVariable: false
 category:
 - SERIF
-familyName: Noto Serif Makasar-Regular
+familyName: Noto Serif Makasar
 googleFonts: true
 includeSubsets:
 - from: Noto Serif
   name: GF_Latin_Core
 sources:
-- NotoSerifMakasar-Regular.ufo
+- NotoSerifMakasar.designspace
