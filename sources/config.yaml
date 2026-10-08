@@ -8,4 +8,4 @@ includeSubsets:
   name: GF_Latin_Core
 recipeProvider: noto
 sources:
-- NotoSerifMakasar.designspace
+- NotoSerifMakasar-Regular.ufo
